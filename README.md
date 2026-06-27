@@ -13,11 +13,11 @@
 
 ## Certifications
 
-- ☑️ CyberArk PAM Defender (DEM)
 - ☑️ Check Point CCSA R81.20
 - ☑️ Check Point CCTA R81.20
 - 🔄 Check Point CCSE R81.20 *(in progress)*
 - 📋 CompTIA Security+ SY0-701 *(planned)*
+- 📋 CyberArk PAM Defender (DEM)
 
 ## Education
 
