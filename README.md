@@ -1,6 +1,6 @@
 # Hey, I'm Jean 👋
 
-**Senior Information Security Analyst** at TOTVS S.A. — focused on PAM, identity security, and infrastructure hardening.
+**Information Security Analyst** at TOTVS S.A. — focused on PAM, identity security, and infrastructure hardening.
 
 ## What I work with
 
