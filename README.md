@@ -1,18 +1,38 @@
-### Olá, mundo! 👋
+# Hey, I'm Jean 👋
 
+**Senior Information Security Analyst** at TOTVS S.A. — focused on PAM, identity security, and infrastructure hardening.
 
-Sejam bem-vindos ao meu perfil no ✨ _github_ ✨, fiquem a vontade para explorar os repositórios.
+## What I work with
 
-Para começar:
+- **PAM/IAM:** CyberArk (Vault, PVWA, PSM, CPM, PTA) — self-hosted, full stack administration
+- **Network Security:** Check Point (CCSA/CCTA certified, CCSE in progress)
+- **SIEM:** Google SecOps Chronicle
+- **OS:** Linux (Zorin OS / Ubuntu), Windows Server
+- **Scripting:** PowerShell, Bash, Python
+- **Compliance:** SOX, ISO 27001, LGPD
 
-- :alien: Tenho 23 anos.
-- 🔭 Atualmente estou trabalhando como Analista de Microinformática
-- 🌱 Graduado em Análise e Desenvolvimento de Sistemas na Uninove - 5/5
-- 🤔 Estou procurando ajuda para saber como entrar na área de desenvolvimento
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jeangs99/)
+## Certifications
 
-![jeangs99 Status](https://github-readme-stats.vercel.app/api?username=jeangs99&show_icons=true&theme=dark&include_all_commits=true&count_private=true")
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangs99&layout=compact&langs_count=7&theme=dark"/>
+- ☑️ CyberArk PAM Defender (DEM)
+- ☑️ Check Point CCSA R81.20
+- ☑️ Check Point CCTA R81.20
+- 🔄 Check Point CCSE R81.20 *(in progress)*
+- 📋 CompTIA Security+ SY0-701 *(planned)*
 
+## Education
 
-![insta](insta.png)
+- 🎓 MBA in Cyber Security — Faculdade Impacta Tecnologia
+- 🎓 BSc in Technology Analysis & Systems Development — UNINOVE
+
+## Side projects
+
+- **Grind** — offline-first PWA for workout tracking
+- Automation tools for CyberArk API, Linux hardening, and study workflows
+
+## Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+
+---
+
+*São Paulo, SP — Brazil*
